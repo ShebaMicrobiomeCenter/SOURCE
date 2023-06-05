@@ -11,6 +11,7 @@ Crohn disease (CD) burden has increased with globalization/urbanization, and wit
 
 ##  Data is publicly available at the following:
 RNASeq Israel and China datasets were deposited in GEO: GSE199906 and GSE233900, respectively.
+
 The 16S amplicon sequencing dataset was deposited in the National Center for Biotechnology Information as BioProject PRJNA978342.
 
 
