@@ -11,12 +11,13 @@ Crohn disease (CD) burden has increased with globalization/urbanization, and wit
 The functions used through the code should all be available under the funcs/ directory (with some additional functions that were not eventually used here).  
 Example data files are under the data/ subdirectory within the appropriate directory.
 
+
+Adittional run guides are availble as readme.txt files under the appropriate subdirectories, as necessary. For example the 16S run guide is under 16S/16S_readme.txt
+
 ###  Data is publicly available at the following:
 RNASeq Israel and China datasets were deposited in GEO: GSE199906 and GSE233900, respectively.
 
 The 16S amplicon sequencing dataset was deposited in the National Center for Biotechnology Information as BioProject PRJNA978342.
-
-
 
 
 
