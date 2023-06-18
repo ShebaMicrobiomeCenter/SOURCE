@@ -12,7 +12,10 @@ The functions used through the code should all be available under the funcs/ dir
 Example data files are under the data/ subdirectory within the appropriate directory.
 
 
-Adittional run guides are availble as readme.txt files under the appropriate subdirectories, as necessary. For example the 16S run guide is under 16S/16S_readme.txt
+Additional run guides are available as readme.txt files under the appropriate subdirectories, as necessary. For example, the 16S run guide is under 16S/16S_readme.txt
+
+For the code of the multi-omic analysis performed by the Borenstein lab, please visit their [GitHub Repository](https://github.com/borenstein-lab/SOURCE_multiomics).
+
 
 ###  Data is publicly available at the following:
 RNASeq Israel and China datasets were deposited in GEO: GSE199906 and GSE233900, respectively.
