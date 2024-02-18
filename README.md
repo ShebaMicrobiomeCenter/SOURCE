@@ -25,7 +25,7 @@ The 16S amplicon sequencing dataset was deposited in the National Center for Bio
 
 RNASeq Israel and China datasets generated in this study have been deposited in the GEO database under accession code: [GSE199906](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199906) and [GSE233900](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233900), respectively.
 
-The 16S amplicon sequencing dataset generated in this study has been deposited in BioProject under accession code: [PRJNA978342](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA978342)
+The 16S amplicon sequencing dataset generated in this study has been deposited in BioProject under accession code: [PRJNA978342](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA978342).
 
 Microbial shotgun sequencing generated in this study have been deposited BioProject under accession code: [PRJNA1056458](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1056458).
 
