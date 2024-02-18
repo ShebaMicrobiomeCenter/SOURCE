@@ -17,12 +17,15 @@ Additional run guides are available as readme.txt files under the appropriate su
 For the code of the multi-omic analysis performed by the Borenstein lab, please visit their [GitHub Repository](https://github.com/borenstein-lab/SOURCE_multiomics).
 
 
-###  Data is publicly available at the following:
+### Raw data is publicly available at the following:
 RNASeq Israel and China datasets were deposited in GEO: GSE199906 and GSE233900, respectively.
 
 The 16S amplicon sequencing dataset was deposited in the National Center for Biotechnology Information as BioProject PRJNA978342.
 
 
+RNASeq Israel and China datasets generated in this study have been deposited in the GEO database under accession code: [GSE199906](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199906) and [GSE233900](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233900), respectively.
+The 16S amplicon sequencing dataset generated in this study has been deposited in BioProject under accession code: [PRJNA978342](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA978342)
+Microbial shotgun sequencing generated in this study have been deposited BioProject under accession code: [PRJNA1056458](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1056458).
 
 
 
