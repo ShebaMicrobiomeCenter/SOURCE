@@ -2,7 +2,7 @@
 
 This is the code associated with the paper : 
 
-Diet-omics in the Study of Urban and Rural Crohn Disease Evolution (SOURCE)
+Diet-omics in the Study of Urban and Rural Crohn disease Evolution (SOURCE) cohort
 
 
 Crohn disease (CD) burden has increased with globalization/urbanization, and with the rapid pace of the increase is attributed to environmental changes rather than genetic drift. The Study Of Urban and Rural CD Evolution (SOURCE, n=380) considered diet-omics domains simultaneously to detect complex interactions and identify potential beneficial and pathogenic factors linked with rural-urban transition and CD. We characterized exposures, diet, ileal transcriptomics, metabolomics, and microbiome in newly diagnosed Crohn Disease (CD) patients and controls in rural and urban China and Israel. Time spent by rural residents in urban environments was linked with changes in gut microbial composition and metabolomics, which mirrored those seen in CD. Ileal transcriptomics highlighted host metabolic and immune gene expression modules, that were linked to potential protective dietary exposures (coffee, manganese, vitamin D), fecal metabolites, and the microbiome. Bacteria-associated metabolites were primarily linked with host immune modules, whereas diet-linked metabolites were associated with host epithelial metabolic functions. 
