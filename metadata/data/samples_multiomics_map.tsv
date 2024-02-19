@@ -1,0 +1,381 @@
+pn_ID	Patient_group	Age	Gender	CRP_mg_L	Calprotectin_ug_g	RNA-Seq_TI	metabolomics_stool	16S_TI_inflamed	16S_TI_non_inflamed	16S_R_inflamed	16S_R_non_inflamed	16S_Stool	Metagenomics_Stool	Environment questionnaire	ffq
+A001	Israel CD	50-59	female	2.38	329	na	na	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A002	Israel control	20-29	female	24.27	99	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A004	Israel control	60-69	female	2.04	502	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A005	Israel CD	30-39	male	87.33	1000	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A006	Israel control	50-59	male	3.43	106	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A007	Israel CD	30-39	female	14.9	251	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A008	Israel CD	20-29	male	na	na	available in GEO: GSE199906	na	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	na	na
+A009	Israel control	20-29	male	5.99	na	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	na	na	na
+A010	Israel control	20-29	female	30.9	56	na	 	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A011	Israel CD	50-59	female	6.44	960	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A012	Israel control	20-29	male	0.72	371	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A013	Israel control	20-29	female	14.53	59	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A014	Israel control	20-29	female	1.84	221	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	na
+A015	Israel control	20-29	male	1.97	52	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A016	Israel CD	20-29	female	7.83	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	na	na
+A017	Israel CD	40-49	female	20.09	na	available in GEO: GSE199906	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	na	available upon reasonable request	available upon reasonable request
+A018	Israel control	20-29	female	1.02	30	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A019	Israel control	20-29	male	0.44	na	available in GEO: GSE199906	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	na	na	na
+A020	Israel CD	30-39	male	4.72	975	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available upon reasonable request	na	na
+A021	Israel control	40-49	female	1.08	82	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A022	Israel control	20-29	female	5.24	30	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A023	Israel control	15-19	female	6.37	250	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A024	Israel CD	20-29	male	7.9	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A025	Israel CD	30-39	male	2.81	754	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A026	Israel control	20-29	male	2.73	32	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A027	Israel CD	20-29	male	4.38	na	available in GEO: GSE199906	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	na	available upon reasonable request	available upon reasonable request
+A028	Israel control	60-69	female	1.25	30	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A030	Israel control	20-29	female	1.1	180	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A031	Israel control	30-39	male	14.57	34	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	na	na
+A032	Israel control	50-59	female	3.01	30	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A033	Israel CD	40-49	male	2.61	50	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A035	Israel CD	20-29	male	33.18	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A036	Israel CD	20-29	male	6.8	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A038	Israel control	40-49	male	1.05	30	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A039	Israel control	30-39	male	2.82	560	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A040	Israel CD	50-59	male	1.92	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A041	Israel control	20-29	male	0.59	229	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A042	Israel CD	20-29	female	38.97	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A044	Israel control	30-39	male	1.77	36	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A045	Israel CD	40-49	female	35.7	1000	available in GEO: GSE199906	available as dataset S7	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A046	Israel CD	40-49	female	64.07	1000	na	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	na
+A047	Israel control	20-29	female	13.68	42	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A050	Israel control	20-29	female	0.28	795	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A051	Israel control	50-59	male	2.07	37	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A052	Israel CD	20-29	male	11.22	663	available in GEO: GSE199906	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A053	Israel CD	15-19	male	na	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	na	na
+A054	Israel CD	40-49	male	37.49	1000	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A055	Israel control	50-59	female	1.93	55	na	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+A056	Israel CD	30-39	male	20.6	1000	available in GEO: GSE199906	available as dataset S7	na	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A057	Israel control	20-29	male	0.65	47	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A058	Israel control	40-49	female	1.41	na	available in GEO: GSE199906	na	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	na	na	na	na
+A059	Israel control	20-29	female	6.3	252	na	na	na	na	na	na	na	na	available upon reasonable request	available upon reasonable request
+A060	Israel CD	20-29	male	94.22	1000	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A061	Israel control	70-79	female	2.65	226	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A062	Israel control	20-29	male	0.52	na	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A063	Israel CD	20-29	female	4.97	915	available in GEO: GSE199906	available as dataset S7	na	available in BioProject PRJNA978342	na	available in BioProject PRJNA978342	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+A064	Israel CD	20-29	male	13.64	na	na	na	na	na	na	available in BioProject PRJNA978342	na	na	available upon reasonable request	available upon reasonable request
+B202	China urban	30-39	male	0.2	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B204	China urban	40-49	male	0.37	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B206	China urban	30-39	male	0.48	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B207	China urban	50-59	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B209	China urban	40-49	female	1.15	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B211	China urban	40-49	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B212	China urban	30-39	female	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B215	China urban	50-59	male	0.12	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B218	China urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B220	China urban	30-39	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B222	China urban	20-29	female	1.22	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B223	China urban	30-39	female	0.81	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B224	China urban	30-39	female	1.53	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B226	China urban	30-39	female	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B228	China urban	40-49	female	0.37	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B230	China urban	30-39	female	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B231	China urban	20-29	female	0.36	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B232	China urban	30-39	female	0.48	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B233	China urban	50-59	female	0.39	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B235	China urban	40-49	male	1	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B236	China urban	30-39	female	0.26	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B237	China urban	50-59	male	10.46	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B238	China urban	40-49	male	0.29	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B240	China urban	30-39	female	1.66	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B241	China urban	20-29	female	4.54	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B242	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B243	China urban	20-29	female	3.3	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B244	China urban	30-39	female	0.4	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B245	China urban	30-39	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B246	China urban	20-29	female	0.3	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B247	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B248	China urban	20-29	female	0.57	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B249	China urban	20-29	female	0.21	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B250	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B251	China urban	20-29	female	1.43	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B252	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B253	China urban	20-29	female	0.28	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B254	China urban	20-29	female	0.53	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B255	China urban	20-29	female	2.56	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B256	China urban	20-29	female	0.3	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B257	China urban	20-29	female	0.25	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B258	China urban	30-39	female	0.28	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B259	China urban	20-29	male	1.47	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B260	China urban	30-39	female	0.38	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B261	China urban	30-39	female	0.46	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B262	China urban	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B263	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B264	China urban	20-29	female	0.71	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B265	China urban	30-39	female	0.3	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B266	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B267	China urban	20-29	female	2.41	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B268	China urban	20-29	male	3.94	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B269	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B270	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B271	China urban	20-29	female	0.22	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B272	China urban	20-29	female	1.6	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B273	China urban	20-29	female	2.97	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B274	China urban	30-39	female	0.33	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B275	China urban	20-29	female	0.26	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B276	China urban	20-29	male	1.08	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B277	China urban	20-29	male	0.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B278	China urban	20-29	male	1.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B279	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B280	China urban	20-29	female	0.65	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B281	China urban	20-29	male	0.55	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B282	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B283	China urban	20-29	female	2.7	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B284	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B285	China urban	20-29	female	0.29	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B286	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B287	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B288	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B289	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B290	China urban	30-39	male	1.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B291	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B292	China urban	20-29	male	4.74	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B293	China urban	20-29	male	0.36	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B294	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B295	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B296	China urban	20-29	male	0.74	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B297	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B298	China urban	20-29	male	0.91	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B299	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B300	China urban	30-39	male	0.36	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	na
+B302	China urban	20-29	female	0.23	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B303	China urban	20-29	female	0.26	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B304	China urban	20-29	female	0.68	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B305	China urban	20-29	male	22.79	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B306	China urban	20-29	male	3.88	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B307	China urban	20-29	male	2.21	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B308	China urban	20-29	female	0.82	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	na	available upon reasonable request
+B309	China urban	20-29	male	0.57	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B310	China urban	30-39	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B311	China urban	20-29	male	0.64	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B312	China urban	20-29	female	0.36	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B313	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B314	China urban	20-29	male	0.79	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B315	China urban	30-39	male	0.47	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B316	China urban	30-39	female	0.41	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B317	China urban	20-29	female	0.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B318	China urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B319	China urban	20-29	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B320	China urban	20-29	female	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B321	China urban	20-29	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B322	China urban	20-29	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B323	China urban	30-39	male	0.2	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+B324	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B325	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B326	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B327	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B328	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B329	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B330	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B331	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B332	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B333	China urban	30-39	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B334	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B335	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B336	China urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B337	China urban	20-29	male	0.97	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+B338	China urban	20-29	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C401	China rural	70-79	female	2.32	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C402	China rural	70-79	male	7	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C403	China rural	50-59	female	0.71	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C404	China rural	50-59	male	0.65	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C405	China rural	50-59	male	0.32	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C406	China rural	50-59	female	0.53	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C407	China rural	60-69	male	0.94	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C408	China rural	60-69	female	0.92	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C409	China rural	30-39	male	2.14	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C410	China rural	60-69	male	0.78	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C411	China rural	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C412	China rural	40-49	male	0.55	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C413	China rural	70-79	female	3.02	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C414	China rural	60-69	female	3.08	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C415	China rural	60-69	male	13.61	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C416	China rural	50-59	male	1.56	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C417	China rural	50-59	male	0.56	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C418	China rural	40-49	female	0.6	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C419	China rural	60-69	female	0.75	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C420	China rural	60-69	male	1.48	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C421	China rural	60-69	male	0.29	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C422	China rural	60-69	female	0.53	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C423	China rural	30-39	male	0.57	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C424	China rural	30-39	female	1.33	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C425	China rural	60-69	female	1.87	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C426	China rural	60-69	male	1.72	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C427	China rural	60-69	male	1.67	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C428	China rural	50-59	female	0.54	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C429	China rural	50-59	male	1.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C430	China rural	50-59	female	0.47	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C431	China rural-urban	20-29	male	1.95	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C432	China rural	60-69	male	5.32	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C433	China rural	60-69	female	0.56	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C434	China rural	60-69	male	1.76	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C435	China rural	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C436	China rural	40-49	female	3.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C437	China rural	40-49	male	2.51	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C438	China rural	60-69	female	3.35	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C439	China rural	70-79	male	0.5	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C440	China rural	60-69	female	0.33	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C441	China rural	30-39	male	0.43	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C442	China rural	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C443	China rural	50-59	female	0.8	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C444	China rural	50-59	female	0.4	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C445	China rural	40-49	male	0.48	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C446	China rural	30-39	female	2.28	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C447	China rural	60-69	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C448	China rural	40-49	female	1.31	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C449	China rural	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C450	China rural	20-29	male	1.22	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C451	China rural	60-69	female	5.49	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C452	China rural	60-69	male	0.34	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C453	China rural	40-49	female	2.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C454	China rural	40-49	male	0.4	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C455	China rural	60-69	male	2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C456	China rural	50-59	male	1.03	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C457	China rural	70-79	male	0.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C458	China rural	60-69	female	1.47	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C459	China rural	50-59	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C460	China rural	50-59	male	0.59	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C461	China rural	70-79	female	1.44	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C462	China rural	40-49	male	1.99	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C463	China rural	40-49	female	0.38	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C464	China rural	60-69	male	1.36	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C465	China rural	60-69	female	0.44	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C466	China rural	40-49	female	1.31	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C467	China rural	50-59	male	7.8	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C468	China rural	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C469	China rural	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C470	China rural	70-79	female	4.71	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C471	China rural	60-69	female	1.76	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C472	China rural	50-59	female	0.59	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C473	China rural	50-59	female	0.96	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C474	China rural	50-59	male	1.33	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C475	China rural	40-49	female	0.56	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C476	China rural	40-49	male	0.59	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C477	China rural	60-69	female	1.65	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C478	China rural	40-49	male	2.58	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C479	China rural	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C480	China rural	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C481	China rural	50-59	male	0.83	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C482	China rural	30-39	male	0.81	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C483	China rural	50-59	male	0.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C484	China rural-urban	30-39	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C485	China rural-urban	60-69	female	5.95	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C487	China rural	40-49	female	2.67	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+C488	China rural	50-59	male	0.2	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+C491	China rural	60-69	female	0.96	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+C492	China rural	50-59	male	22.12	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+C493	China rural-urban	60-69	male	0.45	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C494	China rural-urban	60-69	male	1.48	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C495	China rural-urban	60-69	female	0.93	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C496	China rural-urban	50-59	female	0.65	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C497	China rural-urban	40-49	male	0.57	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C498	China rural-urban	20-29	female	1.88	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C500	China rural-urban	40-49	female	1.26	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C501	China rural-urban	40-49	male	1.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C502	China rural-urban	30-39	male	0.65	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C504	China rural-urban	20-29	male	1.54	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C505	China rural-urban	40-49	female	1.34	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C506	China rural-urban	40-49	female	0.89	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C507	China rural-urban	50-59	female	0.24	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C508	China rural-urban	60-69	female	1.47	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C509	China rural-urban	50-59	male	1.92	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C510	China rural-urban	50-59	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C511	China rural-urban	50-59	male	1.1	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C512	China rural-urban	50-59	female	1.35	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C513	China rural-urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C514	China rural-urban	40-49	male	1.08	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C515	China rural-urban	40-49	female	4.88	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C516	China rural-urban	40-49	male	1.87	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C517	China rural-urban	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C518	China rural-urban	30-39	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C519	China rural	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C520	China rural-urban	30-39	male	2.12	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C521	China rural-urban	30-39	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C522	China rural-urban	30-39	female	2.25	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C523	China rural-urban	50-59	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C524	China rural-urban	50-59	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C525	China rural-urban	30-39	male	1.7	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C526	China rural-urban	30-39	male	0.64	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C527	China rural-urban	40-49	male	20.94	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C528	China rural-urban	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C529	China rural-urban	50-59	male	2.08	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C530	China rural-urban	70-79	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C531	China rural-urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C532	China rural-urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C533	China rural-urban	30-39	male	0.43	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C534	China rural-urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C535	China rural-urban	30-39	male	3.25	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C536	China rural-urban	50-59	male	15.89	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C537	China rural-urban	50-59	female	0.7	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C538	China rural-urban	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C539	China rural-urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C540	China rural-urban	50-59	male	0.38	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C541	China rural-urban	40-49	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C542	China rural-urban	40-49	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C543	China rural-urban	40-49	male	0.91	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C544	China rural-urban	50-59	female	1.51	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C545	China rural-urban	40-49	female	0.69	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C546	China rural-urban	40-49	male	6.9	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C547	China rural-urban	20-29	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C548	China rural	40-49	male	4.89	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C549	China rural-urban	40-49	female	0.83	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C550	China rural-urban	30-39	male	4.73	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C551	China rural-urban	40-49	male	3.97	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C552	China rural-urban	50-59	female	0.79	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C553	China rural-urban	40-49	male	3.83	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C554	China rural-urban	50-59	male	0.49	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C555	China rural-urban	50-59	female	3.21	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C556	China rural-urban	30-39	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C557	China rural-urban	50-59	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C558	China rural-urban	50-59	male	3.82	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C559	China rural-urban	40-49	male	0.67	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C560	China rural-urban	50-59	male	6.22	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C561	China rural-urban	40-49	female	5.62	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C562	China rural-urban	50-59	male	1.25	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C563	China rural-urban	30-39	female	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C564	China rural-urban	30-39	male	0.38	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C565	China rural-urban	30-39	male	0.23	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C566	China rural-urban	30-39	male	0.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+C567	China rural-urban	30-39	male	1.92	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D603	China CD	15-19	female	41.3	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D605	China CD	20-29	male	4.65	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D606	China CD	50-59	female	2.88	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D607	China CD	20-29	female	1.88	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D608	China CD	30-39	male	17.8	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D609	China CD	20-29	male	49.2	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D610	China CD	20-29	male	68.1	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D611	China CD	20-29	male	3.74	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D612	China CD	40-49	male	30.4	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D614	China CD	20-29	female	15.8	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D615	China CD	20-29	female	121	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D616	China CD	20-29	male	14.8	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D618	China CD	20-29	female	5.54	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D619	China CD	15-19	male	47.7	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D620	China CD	30-39	male	11.8	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D621	China CD	30-39	male	46.3	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D624	China CD	15-19	male	48.7	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D627	China CD	30-39	female	0.78	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D629	China CD	30-39	male	33.1	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D631	China CD	20-29	male	15.8	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D632	China CD	20-29	male	29.4	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D633	China CD	30-39	female	4.21	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D635	China CD	20-29	male	95.6	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D636	China CD	15-19	male	9.04	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D640	China CD	15-19	female	42.8	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D641	China CD	20-29	male	80.1	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D643	China CD	20-29	female	15.7	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	available upon reasonable request	available upon reasonable request
+D645	China CD	20-29	male	17.3	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D646	China CD	15-19	male	1.54	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D648	China CD	30-39	female	0.78	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D678	China CD	20-29	male	0.78	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D679	China CD	20-29	male	2.9	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D680	China CD	30-39	male	8.36	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D681	China CD	40-49	female	9.01	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D682	China CD	15-19	male	87	na	na	na	na	na	na	na	available in BioProject PRJNA978342	na	na	available upon reasonable request
+D683	China CD	20-29	female	3.94	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D684	China CD	20-29	male	92.6	na	na	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D685	China CD	30-39	female	39	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D686	China CD	20-29	male	35.9	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	available upon reasonable request	available upon reasonable request
+D687	China CD	30-39	male	0.78	na	available in GEO: GSE233900	available as dataset S7	na	na	na	na	available in BioProject PRJNA978342	available upon reasonable request	na	available upon reasonable request
