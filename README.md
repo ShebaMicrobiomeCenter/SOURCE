@@ -18,9 +18,6 @@ For the code of the multi-omic analysis performed by the Borenstein lab, please 
 
 
 ### Raw data is publicly available at the following:
-RNASeq Israel and China datasets were deposited in GEO: GSE199906 and GSE233900, respectively.
-
-The 16S amplicon sequencing dataset was deposited in the National Center for Biotechnology Information as BioProject PRJNA978342.
 
 
 RNASeq Israel and China datasets generated in this study have been deposited in the GEO database under accession code: [GSE199906](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE199906) and [GSE233900](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE233900), respectively.
