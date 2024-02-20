@@ -98,3 +98,6 @@ loaded via a namespace (and not attached):
 [106] blob_1.2.3             digest_0.6.31          xtable_1.8-4          
 [109] tidyr_1.3.0            munsell_0.5.0          viridisLite_0.4.1 
 ```
+
+[![DOI](https://zenodo.org/badge/649684993.svg)](https://zenodo.org/doi/10.5281/zenodo.10682598)
+
