@@ -4,7 +4,7 @@ library(ggplot2)
 library(stringr)
 library(matrixStats)
 library(vegan)
-source('/pita/users/tzipi/code/R_figs/String_class.R')
+source('funcs/String_class.R')
 
 # writes only map values(no taxa) into a text file
 write_map = function(data_frame, map_name)
